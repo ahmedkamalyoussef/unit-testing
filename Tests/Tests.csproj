@@ -6,8 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  
   <ItemGroup>
-    <ProjectReference Include="..\UnitTesting\UnitTesting.csproj" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
+    <PackageReference Include="NUnit" Version="4.2.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
+      <ProjectReference Include="..\UnitTesting\UnitTesting.csproj" />
   </ItemGroup>
-
 </Project>
