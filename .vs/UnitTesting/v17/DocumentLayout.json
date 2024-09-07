@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Visual studio\\UnitTesting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|d:\\visual studio\\unittesting\\tests\\employeesdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|solutionrelative:tests\\employeesdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|d:\\visual studio\\unittesting\\tests\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|solutionrelative:tests\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|d:\\visual studio\\unittesting\\tests\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|solutionrelative:tests\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|d:\\visual studio\\unittesting\\unittesting\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|d:\\visual studio\\unittesting\\tests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|solutionrelative:tests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|d:\\visual studio\\unittesting\\unittesting\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|d:\\visual studio\\unittesting\\unittesting\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|d:\\visual studio\\unittesting\\tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F280B9D-70C5-4E92-9AA9-B5DBEF697C5D}|Tests\\Tests.csproj|solutionrelative:tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|d:\\visual studio\\unittesting\\unittesting\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|d:\\visual studio\\unittesting\\unittesting\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C07124EB-9064-4D94-8616-3605456D5BC9}|UnitTesting\\UnitTesting.csproj|d:\\visual studio\\unittesting\\unittesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +54,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\Tests\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "Tests\\EmployeeData.cs",
+              "ToolTip": "D:\\Visual studio\\UnitTesting\\Tests\\EmployeeData.cs",
+              "RelativeToolTip": "Tests\\EmployeeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:41:18.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeesData.json",
+              "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\Tests\\EmployeesData.json",
+              "RelativeDocumentMoniker": "Tests\\EmployeesData.json",
+              "ToolTip": "D:\\Visual studio\\UnitTesting\\Tests\\EmployeesData.json",
+              "RelativeToolTip": "Tests\\EmployeesData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T23:31:58.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\Tests\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\EmployeeTest.cs",
+              "ToolTip": "D:\\Visual studio\\UnitTesting\\Tests\\EmployeeTest.cs",
+              "RelativeToolTip": "Tests\\EmployeeTest.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:53:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\UnitTesting\\Employee.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\Employee.cs",
+              "ToolTip": "D:\\Visual studio\\UnitTesting\\UnitTesting\\Employee.cs",
+              "RelativeToolTip": "UnitTesting\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:51:50.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductTest.cs",
               "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\Tests\\ProductTest.cs",
               "RelativeDocumentMoniker": "Tests\\ProductTest.cs",
               "ToolTip": "D:\\Visual studio\\UnitTesting\\Tests\\ProductTest.cs",
               "RelativeToolTip": "Tests\\ProductTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T21:05:41.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\UnitTesting\\Product.cs",
               "RelativeDocumentMoniker": "UnitTesting\\Product.cs",
@@ -64,39 +132,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CalculatorTests.cs",
               "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\Tests\\CalculatorTests.cs",
               "RelativeDocumentMoniker": "Tests\\CalculatorTests.cs",
               "ToolTip": "D:\\Visual studio\\UnitTesting\\Tests\\CalculatorTests.cs",
               "RelativeToolTip": "Tests\\CalculatorTests.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwDkAAABTAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:44:08.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\UnitTesting\\Calculator.cs",
               "RelativeDocumentMoniker": "UnitTesting\\Calculator.cs",
               "ToolTip": "D:\\Visual studio\\UnitTesting\\UnitTesting\\Calculator.cs",
               "RelativeToolTip": "UnitTesting\\Calculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:41:12.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Visual studio\\UnitTesting\\UnitTesting\\Program.cs",
               "RelativeDocumentMoniker": "UnitTesting\\Program.cs",
               "ToolTip": "D:\\Visual studio\\UnitTesting\\UnitTesting\\Program.cs",
               "RelativeToolTip": "UnitTesting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T17:23:10.796Z",
               "EditorCaption": ""

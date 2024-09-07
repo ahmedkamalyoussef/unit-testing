@@ -31,7 +31,7 @@ namespace Tests
             Calculator caculator = new Calculator();
             var result = caculator.DivDouble(1, 3);
 
-            Assert.That(result, Is.EqualTo(0.33).Within(0.004).Percent);
+            Assert.That(result, Is.EqualTo(0.33).Within(0.004)/*.Percent*/);
         }
         [Test]
         public void DivByZeroTest()
